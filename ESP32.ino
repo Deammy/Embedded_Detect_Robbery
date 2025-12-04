@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* WIFI_SSID = "CanITewYou Phone";
-const char* WIFI_PASSWORD = "ajxr1535";
+const char* WIFI_SSID = "ServerName";
+const char* WIFI_PASSWORD = "ServerPassword";
 
 WebServer server(80);
 
